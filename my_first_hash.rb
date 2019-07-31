@@ -3,8 +3,6 @@ def my_hash
   my_hash = {"dog" => "doggo", "pup" => "pupperino"
   }
   my_hash
-
-  
 end
 
 
